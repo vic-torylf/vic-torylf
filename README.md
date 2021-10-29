@@ -4,7 +4,7 @@ My Portfolio Website:
 https://vic-torylf.github.io/portfolio/
 
 
-My CodePen
+My CodePen: 
 https://codepen.io/vic-torylf
 <!---
 vic-torylf/vic-torylf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
